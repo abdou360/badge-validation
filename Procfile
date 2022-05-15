@@ -1,0 +1,1 @@
+web: gunicorn openbadges.verifier.server.app:app

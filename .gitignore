@@ -1,0 +1,10 @@
+dist/
+build/
+*.egg-info
+.DS_STORE
+*.pyc
+.idea/
+.tox/
+.cache/
+README.rst
+.vscode/launch.json
